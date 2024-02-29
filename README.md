@@ -18,3 +18,12 @@ I am not in endorsement nor in affiliation with PngOptimizer. Use their product 
 
 ## Credits
 Emmanuel Exiga. --- Lead Programmer.   UT Austin Coding Bootcamp   ---   Original Source Code Repository.
+
+## Questions and Contact
+
+### My GitHub: [aPersonIsHere](https://www.github.com/aPersonIsHere)
+
+### My Email: emmanuelexiga.2000@gmail.com
+
+Feel free to reach out through email by highlighting my email address and copy-and-paste it to your recipient. 
+Feel free to ask further questions, provide suggestions, or to send a thank you note!
